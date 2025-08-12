@@ -24,7 +24,7 @@ if __name__ == "__main__":
     
     # End of today
     printLine()
-    print("Is almost the end of today, and ". end='')
+    print("Is almost the end of today, and ", end='')
     if do_plan1 and do_plan2:                           # Successfully merge two branch
         print("I have work life balance!!!")
         print("Thanks for doing merge on my 'study' and 'play' branch to 'master' branch :)))")
