@@ -5,5 +5,5 @@ class play(activities):
         super().__init__("play")
 
     def spend_time(self) -> bool:
-        print("I don't have time to play :(")
-        return False
+        print("I have time to play :(")
+        return True
