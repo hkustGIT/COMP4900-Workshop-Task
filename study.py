@@ -5,5 +5,5 @@ class study(activities):
         super().__init__("study")
     
     def spend_time(self) -> bool:
-        print("I don't have time to study :(")
-        return False
+        print("I have time to study :(")
+        return True
