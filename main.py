@@ -10,6 +10,7 @@ if __name__ == "__main__":
     do_plan2 = plan2.spend_time()
     
     if do_plan1 and do_plan2:
+        print("I trust nessie, therefore:")
         print("I have work life balance :)")
     else:
         print("Why I can't have work life balance")
