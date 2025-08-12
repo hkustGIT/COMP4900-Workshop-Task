@@ -12,12 +12,14 @@
 9. Add your own remote repository you have made to your local repository
 10. Push your work to your own remote repository
 11. Screenshot the commit graph on the left-hand-side of the VSCode
-    The commit graph should something like this:
-    ![image]()
-13. Paste your remote repository link and the commit graph screenshot to canvas for hand in
+12. Paste your remote repository link and the commit graph screenshot to canvas for hand in
+
 
 (You can refer [here](https://github.com/hkustGIT/COMP4900-Workshop-Task) for how to do the task)
 (The link will be update in later push)
+(The commit graph look something like this:)
+![image](git-commit-graph.png)
+
 
 ## Personal Information
 Name:
